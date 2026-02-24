@@ -1,0 +1,34 @@
+---
+title: "Projects"
+---
+
+## Analytics Projects
+
+
+### Customer Propensity Modeling
+<div style="margin-top: 5px;">**Tools:** Python, XGBoost, neural networks</div>
+* Optimized targeted marketing by comparing XGBoost, neural network, and logistic regression models to predict annuity purchase propensity, utilizing AUC for model selection and lift to quantify business impact.
+
+### Credit Risk Scorecard
+<div style="margin-top: 5px;">**Tools:** Python, scikit-learn, optbinning</div>
+* Built a credit risk score model in Python utilizing weight-of-evidence binning, reject inference, and scorecard scaling to predict customer default risk and optimize score cutoffs to balance profit and default rate.
+
+### Energy Load Forecasting
+<div style="margin-top: 5px;">**Tools:** R, ARIMA, ESM, fable</div>
+* Developed ESM and ARIMA models in R to forecast daily energy loads, integrating historical weather data and real-time forecasts to optimize for seasonality and resource planning.
+
+### Pump Station Survival Analysis
+<div style="margin-top: 5px;">**Tools:** Python, Cox proportional hazards</div>
+* Modeled pump motor failure using a Cox proportional hazards model to identify drivers of failure during hurricanes. Provided pump upgrade recommendations that optimized resource allocation and minimized risk.
+
+### NLP Topic Modeling
+<div style="margin-top: 5px;">**Tools:** Python, spaCy, scikit-learn</div>
+* Analyzed longitudinal Stack Overflow trends by building a Python/spaCy NLP pipeline and LDA model to identify topics, utilizing topic aggregation and cosine similarity to quantify conceptual shifts over time.
+
+### Restaurant Menu Optimization
+<div style="margin-top: 5px;">**Tools:** R, arules</div>
+* Optimized restaurant cross-selling strategies by identifying consumer purchasing patterns for entrées, sides, and wine using association rules in R, evaluating support, confidence, and lift metrics.
+
+### NCSU Women's Tennis Dashboard
+<div style="margin-top: 5px;">**Tools:** Tableau, Python</div>
+* Built a Tableau dashboard for NC State Women’s Tennis to visualize performance leaderboards and trends for individual development and team-level metrics.

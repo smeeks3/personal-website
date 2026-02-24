@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Steven Meeks Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+    right:
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - flatly
+    css: styles.css
+    toc: true
+
+
+

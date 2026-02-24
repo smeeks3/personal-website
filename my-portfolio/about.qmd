@@ -1,0 +1,13 @@
+---
+title: "About Me"
+---
+
+I am a Master of Science in Analytics student at NC State University's Institute for Advanced Analytics. My background is in corporate security, intelligence analysis and psychology, helping me bring a unique perspective to problem-solving and collaboration within teams.
+
+### Professional Interests
+* **Data Science:** Building models that help solve complex problems and answer tough questions.
+* **Communication:** Communicating compelling data stories through presentations and dashboards.
+* **Continuous Learning:** Committed to staying up to date on modern technology, with particular interest in agentic AI developments and its impact on the data lifecycle.
+
+### Beyond the Data
+When I'm not working on projects, I enjoy reading, spending time outdoors, experimenting with new recipes, and supporting UNC sports. Go Tar Heels!

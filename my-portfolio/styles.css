@@ -1,0 +1,35 @@
+/* css styles */
+
+/* Force the container to be a centered column */
+.quarto-about-jolla .about-links {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 100% !important;
+  gap: 15px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Force each button to center its internal content */
+.quarto-about-jolla .about-link {
+  width: 100% !important;
+  max-width: 500px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+  padding: 10px !important;
+  border: 1px solid #ccc !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+}
+
+/* Ensure the icon sits on top of the text */
+.quarto-about-jolla .about-link i {
+  margin-right: 0 !important;
+  margin-bottom: 5px !important;
+  font-size: 1.3em !important;
+}

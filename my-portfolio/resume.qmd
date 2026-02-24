@@ -1,0 +1,52 @@
+---
+title: "Resume"
+---
+
+[Download PDF Version](resume.pdf){.btn .btn-primary}
+
+## Academic Practicum
+
+**Data Science Practicum Consultant** | *Primrose Schools*
+<div style="margin-top: 5px;">*September 2025 – April 2026*</div>
+* Identified geographic predictors of franchise success using panel regression and time series analysis.
+* Built interactive Tableau dashboards to present actionable insights to stakeholders.
+
+
+## Education
+
+**Master of Science in Analytics**
+<div style="margin-top: 5px;">*North Carolina State University, Institute for Advanced Analytics* | Raleigh, NC</div>
+* Expected Graduation: May 2026
+
+**Bachelor of Arts in Psychology and Peace, War, and Defense**
+<div style="margin-top: 5px;">*University of North Carolina at Chapel Hill* | Chapel Hill, NC</div>
+* **Minor in Data Science**
+* Honors: Phi Beta Kappa Member
+
+
+## Technical Skills
+
+* **Programming & Big Data:** Python, R, SQL, Spark, NoSQL
+* **Machine Learning & Stats:** Tree-Based Models (XGB, Random Forest, CART), Regression (Linear, Logistic, Panel), Time Series, Survival Analysis, Neural Networks, NLP, AI Agents
+* **Data Visualization & Tools:** Tableau, Power BI, GitHub, Microsoft Office
+
+
+## Work Experience
+
+**Research Assistant** | *ExTrac*
+<div style="margin-top: 5px;">*May 2022 – May 2024*</div>
+* Prepared and validated over 2,500 threat reports using Label Studio to serve as structured training data for an AI platform.
+
+**Intelligence Analyst** | *Bank of America Contract*
+<div style="margin-top: 5px;">*Sep 2024 – Jun 2025*</div>
+* Authored time-sensitive crisis reports to mitigate risks to employees and operations during threat incidents.
+* Aggregated internal ATM crime data to support intelligence sharing with bank and law enforcement partners.
+
+
+**Safety and Security Intern** | *NetApp*
+<div style="margin-top: 5px;">*Jun 2023 – Sep 2023*</div>
+* XYZ
+
+**Research Assistant** | *UNC Propaganda Research Team*
+<div style="margin-top: 5px;">*May 2022 – May 2024*</div>
+* XYZ

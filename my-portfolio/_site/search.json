@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF Version"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nMaster of Science in Analytics\n\nNorth Carolina State University, Institute for Advanced Analytics | Raleigh, NC\n\n\nExpected Graduation: May 2026\n\nBachelor of Arts in Psychology and Peace, War, and Defense\n\nUniversity of North Carolina at Chapel Hill | Chapel Hill, NC\n\n\nMinor in Data Science\nHonors: Phi Beta Kappa Member"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming & Big Data: Python, R, SQL, Spark, NoSQL\nMachine Learning & Stats: Tree-Based Models (XGB, Random Forest, CART), Regression (Linear, Logistic, Panel), Time Series, Survival Analysis, Neural Networks, NLP, AI Agents\nData Visualization & Tools: Tableau, Power BI, GitHub, Microsoft Office"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nResearch Assistant | ExTrac\n\nPrepared and validated over 2,500 threat reports to serve as structured training data for an AI platform.\nBuilt NLP pipelines utilizing spaCy and collected data via API to streamline intelligence sharing.\n\nIntelligence Analyst | [Previous Company Name]\n\nAuthored time-sensitive crisis reports and aggregated internal ATM crime data for intelligence sharing."
+  },
+  {
+    "objectID": "resume.html#academic-practicum",
+    "href": "resume.html#academic-practicum",
+    "title": "Resume",
+    "section": "Academic Practicum",
+    "text": "Academic Practicum\nData Science Practicum Consultant | Primrose Schools\n\nSeptember 2025 – April 2026\n\n\nIdentified geographic predictors of franchise success using panel regression and time series analysis.\nBuilt interactive Tableau dashboards to present actionable insights to stakeholders."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Steven Meeks",
+    "section": "",
+    "text": "Hi, I’m Steven. I’m a data and analytics professional currently based in Raleigh as I complete my Master’s in Analytics, with plans to relocate to the Boston area after graduation.\nI specialize in transforming complex data into actionable strategy. Currently an MS candidate at the Institute for Advanced Analytics, I build analytical models and solutions using Python, R, and SQL.\nMy approach is grounded by a background in intelligence analysis and psychology, helping me bridge the gap between rigorous statistical modeling and real-world decision-making. I am passionate about solving tough problems and communicating tangible impact to audiences."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Master of Science in Analytics student at NC State University’s Institute for Advanced Analytics. My background is in corporate security, intelligence analysis and psychology, helping me bring a unique perspective to problem-solving and collaboration within teams.\n\nProfessional Interests\n\nData Science: Building models that help solve complex problems and answer tough questions.\nCommunication: Communicating compelling data stories through presentations and dashboards.\nContinuous Learning: I am committed to staying up to date on the everchanging world of analytics, with particular interest in developments in agentic AI and how it can be leveraged to streamline and automate the data lifecycle.\n\n\n\nBeyond the Data\nWhen I’m not working on projects, I enjoy reading, spending time outdoors, experimenting with new recipes, and supporting UNC sports. Go Tar Heels!"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
+    "section": "Work Experience",
+    "text": "Work Experience\nResearch Assistant | ExTrac\n\nMay 2022 – May 2024\n\n\nPrepared and validated over 2,500 threat reports using Label Studio to serve as structured training data for an AI platform.\n\nIntelligence Analyst | Bank of America Contract\n\nSep 2024 – Jun 2025\n\n\nAuthored time-sensitive crisis reports to mitigate risks to employees and operations during threat incidents.\nAggregated internal ATM crime data to support intelligence sharing with bank and law enforcement partners.\n\nSafety and Security Intern | NetApp\n\nJun 2023 – Sep 2023\n\n\nXYZ\n\nResearch Assistant | UNC Propaganda Research Team\n\nMay 2022 – May 2024\n\n\nXYZ"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: Python, XGBoost, neural networks\n\n\nOptimized targeted marketing by comparing XGBoost, neural network, and logistic regression models to predict annuity purchase propensity, utilizing AUC for model selection and lift to quantify business impact.\n\n\n\n\n\nTools: Python, scikit-learn, optbinning\n\n\nBuilt a credit risk score model in Python utilizing weight-of-evidence binning, reject inference, and scorecard scaling to predict customer default risk and optimize score cutoffs to balance profit and default rate.\n\n\n\n\n\nTools: R, ARIMA, ESM, fable\n\n\nDeveloped ESM and ARIMA models in R to forecast daily energy loads, integrating historical weather data and real-time forecasts to optimize for seasonality and resource planning.\n\n\n\n\n\nTools: Python, Cox proportional hazards\n\n\nModeled pump motor failure using a Cox proportional hazards model to identify drivers of failure during hurricanes. Provided pump upgrade recommendations that optimized resource allocation and minimized risk.\n\n\n\n\n\nTools: Python, spaCy, scikit-learn\n\n\nAnalyzed longitudinal Stack Overflow trends by building a Python/spaCy NLP pipeline and LDA model to identify topics, utilizing topic aggregation and cosine similarity to quantify conceptual shifts over time.\n\n\n\n\n\nTools: R, arules\n\n\nOptimized restaurant cross-selling strategies by identifying consumer purchasing patterns for entrées, sides, and wine using association rules in R, evaluating support, confidence, and lift metrics.\n\n\n\n\n\nTools: Tableau, Python\n\n\nBuilt a Tableau dashboard for NC State Women’s Tennis to visualize performance leaderboards and trends for individual development and team-level metrics."
+  },
+  {
+    "objectID": "projects.html#featured-analytics-projects",
+    "href": "projects.html#featured-analytics-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: Python, SQL, Tableau, Panel Regression\n\n\nDeveloped a geographic predictor model of franchise success using panel regression and time series analysis.\nBuilt interactive Tableau dashboards to present actionable insights to stakeholders.\n\n\n\n\n\nTools: Python, XGBoost, Neural Networks\n\n\nBuilt a model to predict customer behavior using advanced machine learning techniques.\n\n\n\n\n\nTools: Python\n\n\nDeveloped a scorecard to assess credit risk, a critical application of data science in finance.\n\n\n\n\n\nTools: R, ARIMA, ESM\n\n\nUtilized time series models in R to forecast energy demand with high accuracy."
+  },
+  {
+    "objectID": "projects.html#analytics-projects",
+    "href": "projects.html#analytics-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: Python, XGBoost, neural networks\n\n\nOptimized targeted marketing by comparing XGBoost, neural network, and logistic regression models to predict annuity purchase propensity, utilizing AUC for model selection and lift to quantify business impact.\n\n\n\n\n\nTools: Python, scikit-learn, optbinning\n\n\nBuilt a credit risk score model in Python utilizing weight-of-evidence binning, reject inference, and scorecard scaling to predict customer default risk and optimize score cutoffs to balance profit and default rate.\n\n\n\n\n\nTools: R, ARIMA, ESM, fable\n\n\nDeveloped ESM and ARIMA models in R to forecast daily energy loads, integrating historical weather data and real-time forecasts to optimize for seasonality and resource planning.\n\n\n\n\n\nTools: Python, Cox proportional hazards\n\n\nModeled pump motor failure using a Cox proportional hazards model to identify drivers of failure during hurricanes. Provided pump upgrade recommendations that optimized resource allocation and minimized risk.\n\n\n\n\n\nTools: Python, spaCy, scikit-learn\n\n\nAnalyzed longitudinal Stack Overflow trends by building a Python/spaCy NLP pipeline and LDA model to identify topics, utilizing topic aggregation and cosine similarity to quantify conceptual shifts over time.\n\n\n\n\n\nTools: R, arules\n\n\nOptimized restaurant cross-selling strategies by identifying consumer purchasing patterns for entrées, sides, and wine using association rules in R, evaluating support, confidence, and lift metrics.\n\n\n\n\n\nTools: Tableau, Python\n\n\nBuilt a Tableau dashboard for NC State Women’s Tennis to visualize performance leaderboards and trends for individual development and team-level metrics."
+  }
+]

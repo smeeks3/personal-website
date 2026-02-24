@@ -1,0 +1,22 @@
+---
+title: "Steven Meeks"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/steven-meeks
+    #- icon: github
+    #  text: Github
+    #  href: https://github.com/your-username
+    - icon: envelope
+      text: "Email <br><small>stevenmeeks21@gmail.com</small>"
+      href: mailto:stevenmeeks21@gmail.com
+---
+
+Hi, I'm Steven. I'm a data and analytics professional currently based in Raleigh as I complete my Master's in Analytics, with plans to relocate to the Boston area after graduation.
+
+I specialize in transforming complex data into actionable strategy. Currently an MS candidate at the Institute for Advanced Analytics, I build analytical models and solutions using Python, R, and SQL.
+
+My approach is grounded by a background in intelligence analysis and psychology, helping me bridge the gap between rigorous statistical modeling and real-world decision-making. I am passionate about solving tough problems and communicating tangible impact to audiences.
