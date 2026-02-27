@@ -45,8 +45,10 @@ title: "Resume"
 
 **Safety and Security Intern** | *NetApp*
 <div style="margin-top: 5px;">*Jun 2023 – Sep 2023*</div>
-* XYZ
+* Quantified natural hazard risk by merging internal personnel data with FEMA NRI datasets using SQL.
+* Built a Power BI dashboard and reference guide to visualize risk exposure and support continuity planning.
 
 **Research Assistant** | *UNC Propaganda Research Team*
 <div style="margin-top: 5px;">*May 2022 – May 2024*</div>
-* XYZ
+* Analyzed visual propaganda quantitatively using a framework of messaging and media production measures.
+* Co-authored a publication in Military Review and briefed the 96th Civil Affairs Battalion at Fort Bragg.
